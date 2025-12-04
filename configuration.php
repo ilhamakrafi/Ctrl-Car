@@ -23,7 +23,7 @@
             Connexion/ S'authentifier
         </a>
     </div>
-    <h1>Ctrl+Car DYDUY: Le covoiturage simple, rapide et sécurisé</h1>
+    <h1>Ctrl+Car: Le covoiturage simple, rapide et sécurisé</h1>
     <h2>Trouvez votre covoiturage au clic près</h2>
    
     <nav>  <menu avec les actions php >
